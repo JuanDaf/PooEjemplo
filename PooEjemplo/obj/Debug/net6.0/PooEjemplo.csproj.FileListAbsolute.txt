@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\PooEjemplo\PooEjemplo\bin\Debug\net6.0\PooEjemplo.exe
+C:\Users\Usuario\source\repos\PooEjemplo\PooEjemplo\bin\Debug\net6.0\PooEjemplo.deps.json
+C:\Users\Usuario\source\repos\PooEjemplo\PooEjemplo\bin\Debug\net6.0\PooEjemplo.runtimeconfig.json
+C:\Users\Usuario\source\repos\PooEjemplo\PooEjemplo\bin\Debug\net6.0\PooEjemplo.dll
+C:\Users\Usuario\source\repos\PooEjemplo\PooEjemplo\bin\Debug\net6.0\PooEjemplo.pdb
+C:\Users\Usuario\source\repos\PooEjemplo\PooEjemplo\obj\Debug\net6.0\PooEjemplo.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PooEjemplo\PooEjemplo\obj\Debug\net6.0\PooEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PooEjemplo\PooEjemplo\obj\Debug\net6.0\PooEjemplo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PooEjemplo\PooEjemplo\obj\Debug\net6.0\PooEjemplo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PooEjemplo\PooEjemplo\obj\Debug\net6.0\PooEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PooEjemplo\PooEjemplo\obj\Debug\net6.0\PooEjemplo.dll
+C:\Users\Usuario\source\repos\PooEjemplo\PooEjemplo\obj\Debug\net6.0\refint\PooEjemplo.dll
+C:\Users\Usuario\source\repos\PooEjemplo\PooEjemplo\obj\Debug\net6.0\PooEjemplo.pdb
+C:\Users\Usuario\source\repos\PooEjemplo\PooEjemplo\obj\Debug\net6.0\PooEjemplo.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\PooEjemplo\PooEjemplo\obj\Debug\net6.0\ref\PooEjemplo.dll
